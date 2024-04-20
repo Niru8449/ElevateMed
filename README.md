@@ -19,4 +19,6 @@ The **CDAE** model `data_RAD/pretrained_ae.pth` is trained by code provided in `
 
 The result json file can be found in the directory `results/`.
 
-![Accuracy of the model with different customisations](misc/results_vqa.png)
+<div align="center">
+  <img src="misc/results_vqa.png" alt="Accuracy of the model with different customisations" />
+</div>
