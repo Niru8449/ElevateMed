@@ -18,7 +18,3 @@ The **MAML** model `data_RAD/pretrained_maml.weights` is trained by using offici
 The **CDAE** model `data_RAD/pretrained_ae.pth` is trained by code provided in `train_cdae.py`. 
 
 The result json file can be found in the directory `results/`.
-
-<div align="center">
-  <img src="misc/results_vqa.png" alt="Accuracy of the model with different customisations" />
-</div>
